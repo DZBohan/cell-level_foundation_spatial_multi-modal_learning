@@ -3,8 +3,20 @@
 ## Index
 
 Phase 0. Data Contract & Project Skeleton
+
 Phase 1. H&E Image Branch (Self-Supervised)
-Phase 2. — Gene Branch (Masked Reconstruction with Spatial Context)
+
+Phase 2. Gene Branch (Masked Reconstruction with Spatial Context)
+
+Phase 3. Protein Branch
+
+Phase 4. Shared Latent Space & Contrastive Projection Layer
+
+Phase 5. Single-Scale Cross-Modal Contrastive Alignment
+
+Phase 6. Multi-Objective Contrastive Stabilization
+
+Phase 7. Registration-Aware Ground Truth Integration
 
 # Phase 0. Data Contract & Project Skeleton
 
